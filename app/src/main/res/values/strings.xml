@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Jetpack#2</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="titles">Title</string>
+    <string name="genre">Genre</string>
+    <string name="title">Title</string>
+    <string name="imgposter">Poster Film</string>
+    <string name="description">Description</string>
+    <string name="movie">Movie</string>
+    <string name="tv_show">Tv Show</string>
+    <string name="just_arrow">Just Arrow</string>
+    <string name="just_star">Just Icon Star</string>
+    <string name="original_name">Film\'s Name</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="title_activity_test">TestActivity</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="fav_film">Favorite</string>
+    <string name="favorite">Favorite</string>
+
+</resources>
